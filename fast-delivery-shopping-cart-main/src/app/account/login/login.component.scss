@@ -1,0 +1,12 @@
+@import '~scss/helpers/variables';
+@import '~scss/helpers/mixins';
+
+.input-group {
+    display: block;
+    position: relative;
+}
+
+.registration{
+    color: $brand-success;
+    font-weight: bold;
+}
